@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Sanjeevi,  AI developer 📙 learning remotely since 2020 🚀</div>  
   

@@ -1,5 +1,5 @@
 # 💫 About Me:
-      I'm SANJEEVI N, AI developer 📙 learning remotely since 2020 🚀<br>🔭 I’m currently working on Diabetes Prediction<br><br>🌱 I’m currently learning AI and ML<br><br>❓ Ask me about anything related to IOT embedded systems,blockchain related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
+I'm SANJEEVI N, AI developer 📙 learning remotely since 2020 🚀<br>🔭 I’m currently working on Diabetes Prediction<br><br>🌱 I’m currently learning AI and ML<br><br>❓ Ask me about anything related to IOT embedded systems,blockchain related technologies<br><br>⚡ Fun fact: I use tabs over spaces<br><br>
 
 
 ## 🌐 Socials:
